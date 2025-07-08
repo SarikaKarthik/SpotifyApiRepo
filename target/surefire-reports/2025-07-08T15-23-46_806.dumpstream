@@ -1,0 +1,5 @@
+# Created at 2025-07-08T15:23:47.069
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Maven and Cucumber Projects\Amazon_Cucumber\SpotifyAPI\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
